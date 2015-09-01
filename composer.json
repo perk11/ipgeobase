@@ -1,0 +1,8 @@
+{
+  "name": "perk11/ipgeobase-data",
+  "type": "library",
+  "homepage": "https://github.com/perk11/ipgeobase-data",
+  "license": "unknown",
+  "description": "Russian GeoIP Base data",
+  "keywords": ["russian","GeoIP","IPGeoBase","cidr_optim"]
+}
